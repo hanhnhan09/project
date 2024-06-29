@@ -130,7 +130,8 @@
 
 @media screen and (max-width: 600px){
     .cart {
-        padding: 100px 10px;
+        padding-top: 100px 10px;
+        padding-bottom: 50px 10px;
     }
     .cart .cart_tt {
         display: block;

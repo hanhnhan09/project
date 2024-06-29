@@ -131,9 +131,9 @@
 
 @media screen and (max-width: 380px){
     .sp_tonghop .row .card {
-        width: 150px;
+        width: 145px;
         padding: 10px;
-        margin: 10px 10px;
+        margin: 10px 5px;
     }
 
     .sp_tonghop .icon i{

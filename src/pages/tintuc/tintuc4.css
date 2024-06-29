@@ -159,17 +159,17 @@
 @media screen and (max-width: 380px){
     .tintuc4 .nutsp button {
         font-weight: 600;
-        font-size: 9.5px;
+        font-size: 9px;
     }
 
     .tintuc4 .lienquan .row .card {
-        width: 150px;
+        width: 140px;
         padding: 10px;
         margin: 15px 5px;   
     }
 
     .main_tt4 .imgsp{
-        width: 250px;
+        width: 230px;
         padding-bottom: 20px; 
     }
 }
