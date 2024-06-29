@@ -155,3 +155,21 @@
     }
     
 }
+
+@media screen and (max-width: 380px){
+    .tintuc4 .nutsp button {
+        font-weight: 600;
+        font-size: 9.5px;
+    }
+
+    .tintuc4 .lienquan .row .card {
+        width: 150px;
+        padding: 10px;
+        margin: 15px 5px;   
+    }
+
+    .main_tt4 .imgsp{
+        width: 250px;
+        padding-bottom: 20px; 
+    }
+}

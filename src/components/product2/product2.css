@@ -85,3 +85,12 @@
         
     }
 }
+
+@media screen and (max-width: 380px){
+    .sp_maydoi .row .card {
+        width: 150px;
+        padding: 10px;
+        margin: 10px 5px;
+        
+    }
+}
